@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³‰°‡8ØÊÅïÚ.
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ØÊÅïÚ.
+…
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "projectLead".(®Ïİìüÿÿÿÿ8‹ß¹ïÚ.
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8¦´¹ïÚ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡œÌÉ8‡ñÆïÚ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú„ÄÎ8¾ÀÇïÚ.

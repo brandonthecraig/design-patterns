@@ -1,0 +1,11 @@
+
+t	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥£ρφϋÿÿÿÿ
+o
+java:S1192"RDefine a constant instead of duplicating this literal "www.google.com/q=" 3 times.(άβι²8ρΩ.
+t	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥£ρφϋÿÿÿÿ
+t	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥£ρφϋÿÿÿÿ
+<
+java:S1640"Convert this Map to an EnumMap.(­«8ό†Ω.

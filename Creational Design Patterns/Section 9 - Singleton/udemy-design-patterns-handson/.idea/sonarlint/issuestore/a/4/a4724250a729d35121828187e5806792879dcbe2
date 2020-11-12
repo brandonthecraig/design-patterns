@@ -1,0 +1,12 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹ ë8—§åÊÑ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÏŠñğıÿÿÿÿ8«ÎşÊÑ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÏŠñğıÿÿÿÿ8„†ûÊÑ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(™µÚ‡üÿÿÿÿ8•ä˜ËÑ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(íóÛıÿÿÿÿ8ı—ıÊÑ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Çğõ"8“†‘ËÑ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰Şˆû8—§åÊÑ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şúÙıÿÿÿÿ8ëÒ”ËÑ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾µ¨Šûÿÿÿÿ8‹–æÊÑ.
+P
+java:S1481".Remove this unused "singleton" local variable.( ñøÊøÿÿÿÿ8¦õËÑ.

@@ -1,0 +1,10 @@
+Single responsibility principle
+in this case we started with a bunch of service logic happening in our controller
+- controllers should be handling requests only, adding more means that it has more than one responsibility
+- at the beginning it is validating users and then saving them to the store
+- going to port the logic from the controller to the service and validation areas
+- controller should be recieving requests, handing the request to the rest of the app and returning the result
+
+
+Once we move them around the Validator is only validating and is isolated nicely
+Same with persitstence service, it handles the saving of users

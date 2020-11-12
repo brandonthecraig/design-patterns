@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8©œéÎÎ.
+D
+java:S1481"'Remove this unused "g2" local variable.(ŞÌë‰8À±íÎÎ.
+S
+java:S1854"6Remove this useless assignment to local variable "g2".(ŞÌë‰8À±íÎÎ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(œ™À8ÉÊêÎÎ.

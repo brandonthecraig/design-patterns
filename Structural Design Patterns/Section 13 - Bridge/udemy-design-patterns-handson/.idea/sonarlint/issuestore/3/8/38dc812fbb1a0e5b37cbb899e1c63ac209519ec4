@@ -1,0 +1,5 @@
+
+“
+java:S1319"vThe type of the "linkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(¾ìªò8®‹´ŒÓ.
+L
+java:S3740"/Provide the parametrized type for this generic.(¾ìªò8öâðÍ×.

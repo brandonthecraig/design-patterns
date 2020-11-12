@@ -1,0 +1,8 @@
+
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÚÈ»Ë8ÂıìÒ.
+[	java:S899":Do something with the "boolean" value returned by "offer".(Ûò®Èûÿÿÿÿ8í‘”ìÒ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ˆÎ‚ìÒ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ö–”Í8ˆÎ‚ìÒ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÂıìÒ.

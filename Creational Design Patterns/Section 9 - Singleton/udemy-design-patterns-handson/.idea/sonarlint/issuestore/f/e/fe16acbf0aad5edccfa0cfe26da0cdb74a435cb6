@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÆüŞœûÿÿÿÿ8ÃËÑ.
+M
+java:S2440"0Remove this instantiation of "LazyRegistryIODH".(Óûí8š‘‡ËÑ.
+p
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óûí8İƒ…ËÑ.
