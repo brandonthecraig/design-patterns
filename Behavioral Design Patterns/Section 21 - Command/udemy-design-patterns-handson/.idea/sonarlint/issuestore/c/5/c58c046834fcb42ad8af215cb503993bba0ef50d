@@ -1,0 +1,7 @@
+
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ı¿Âùÿÿÿÿ
+\
+java:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+y
+java:S1845"cRename field "RUNNER" to prevent any misunderstanding/clash with field "runner" defined on line 12.(û›‰Æ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(©¯†ğùÿÿÿÿ
